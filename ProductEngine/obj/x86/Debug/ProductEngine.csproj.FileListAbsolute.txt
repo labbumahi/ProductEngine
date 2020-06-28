@@ -1,0 +1,7 @@
+C:\Users\Shailendra\source\repos\ProductEngine\obj\x86\Debug\ProductEngine.csprojAssemblyReference.cache
+C:\Users\Shailendra\source\repos\ProductEngine\obj\x86\Debug\ProductEngine.csproj.CoreCompileInputs.cache
+C:\Users\Shailendra\source\repos\ProductEngine\bin\Debug\ProductEngine.exe.config
+C:\Users\Shailendra\source\repos\ProductEngine\bin\Debug\ProductEngine.exe
+C:\Users\Shailendra\source\repos\ProductEngine\bin\Debug\ProductEngine.pdb
+C:\Users\Shailendra\source\repos\ProductEngine\obj\x86\Debug\ProductEngine.exe
+C:\Users\Shailendra\source\repos\ProductEngine\obj\x86\Debug\ProductEngine.pdb
